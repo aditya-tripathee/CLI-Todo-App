@@ -1,0 +1,12 @@
+{
+  "name": "cli-todo-app",
+  "version": "1.0.0",
+  "description": "Cli Todo App",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Tripathi",
+  "license": "ISC"
+}
